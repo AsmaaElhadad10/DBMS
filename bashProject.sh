@@ -1124,7 +1124,7 @@ update_raw() {
         # Check if the old value exists in the column for the specified data type
         if grep -q "${columnToUpdate}(${column_type})=${oldValue}" "$data_file"; then
             # Check if the new value is the same as any existing primary key value
-            if [ "${column_type}" = "int" ] && grep -q "${columns_array[0]}(int)=${newValue}" "$data_file"; then
+            if [ "${column_type}" = "int" ] && grep -q "${columns_array[@]}(int)=${newValue}" "$data_file"; then
                 echo -e "${RED}Error: New value cannot be the same as any existing primary key value.${RESET}"
                 return 1
             fi
