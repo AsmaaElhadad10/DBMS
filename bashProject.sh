@@ -17,7 +17,7 @@ MAGENTA='\033[0;35m'
 CYAN='\033[0;36m'
 RESET='\033[0m'
 
-echo -e "${BLUE}<<* Welcome to A&A DataBase *>>${RESET}"
+echo -e "${GREEN}<<* Welcome to A&A DataBase *>>${RESET}"
 
 
 
@@ -1137,7 +1137,7 @@ update_raw() {
             
             # Check if the update was successful
             if grep -q "${columnToUpdate}(${column_type})=${newValue}" "$data_file" && ! grep -q "${columnToUpdate}(${column_type})=${oldValue}" "$data_file"; then
-                echo "Value '${oldValue}' updated to '${newValue}' in column '${columnToUpdate}' in table '${tableName}'."
+                echo "${GREEN}Value '${oldValue}' updated to '${newValue}' in column '${columnToUpdate}' in table '${tableName}'.${RESET}"
                 # Display the updated data file
                 cat "$data_file"
             else
