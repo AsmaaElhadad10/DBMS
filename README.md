@@ -5,7 +5,7 @@ The system provides a menu-driven interface for users to manage databases, table
 
 <h1> Features:</h1>
 <h2> Database Management:</h2>
-Create, list, connect to, drop, and quit databases.
+<h3> Create, list, connect to, drop, and quit databases.</h3>
 
 <h1> Table Management:
 <h2> Create, list, drop, insert into, select from, delete from, and update raw data in tables.</h2>
@@ -14,30 +14,29 @@ Create, list, connect to, drop, and quit databases.
 <h1> Usage:
 <h2> 1. Clone the Repository:</h2>
 
-Clone the repository to your local machine and navigate to the project directory.
+<h3> Clone the repository to your local machine and navigate to the project directory.</h3>
 
-   git clone https://github.com/AsmaaElhadad10/DBMS
-   cd database-management-system-
+  <h3> git clone https://github.com/AsmaaElhadad10/DBMS</h3>
+  <h3> cd database-management-system</h3>
 
 <h2> 2. Make the Script Executable:</h2>
-   chmod +x bashProject.sh
+   <h3> chmod +x bashProject.sh</h3>
 
 <h2> 3. Run the Script:</h2>
-   ./bashProject.sh
+   <h3> ./bashProject.sh</h3>
    
 <h2> 4. Follow On-Screen Instructions:</h2>
-   Follow the prompts and instructions displayed on the screen to manage your databases and tables effectively.
+   <h3> Follow the prompts and instructions displayed on the screen to manage your databases and tables effectively.</h3>
    
 <h2> 5. File Structure:</h2>
    
 <h3> bashProject.sh:</h3>
-The main script containing the database management functions and the main menu.
+<h3> The main script containing the database management functions and the main menu.</h3>
 
 <h3> Contributors:</h3>
-Amal &
-Asmaa
+<h3> Amal & Asmaa</h3>
 
-Feel free to contribute to this project or provide feedback for improvements!
+<h3> Feel free to contribute to this project or provide feedback for improvements!</h3>
 
     
 <h1> DEMO </h1>
