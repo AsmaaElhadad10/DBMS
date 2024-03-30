@@ -42,18 +42,25 @@ The system provides a menu-driven interface for users to manage databases, table
 <h1> DEMO </h1>
 <h2>1- Create Database & Tables</h2>
 
-![create db table](https://github.com/AsmaaElhadad10/DBMS/assets/151434961/e9933de3-4c08-4444-aead-72882a22b1fa)
+![create db table](https://github.com/AsmaaElhadad10/DBMS/assets/151434961/bb407428-badf-4b65-aea2-a3c9e121be29)
 
-<h2>2- Insert in Table & Select from Table</h2>
+<h2>2- Insert in Table </h2>
 
-![insert select](https://github.com/AsmaaElhadad10/DBMS/assets/151434961/c3d4c266-1fe4-4e83-92bb-fbfa43cc09e0)
+![insert](https://github.com/AsmaaElhadad10/DBMS/assets/151434961/6a3fa1de-915a-47c9-a7fb-45113c4e2db4)
+
+<h2>3- Select from Table </h2>
+
+![Select](https://github.com/AsmaaElhadad10/DBMS/assets/151434961/b3c81fdc-421f-4f9d-9203-7ddaf2217d14)
 
 <h2>4- Update from Table </h2>
 
-![update1](https://github.com/AsmaaElhadad10/DBMS/assets/151434961/fe3c2572-49c0-4481-b7e7-1dc959220754)
+![update](https://github.com/AsmaaElhadad10/DBMS/assets/151434961/7088e23f-8c6f-48ed-8933-ec7d672281a2)
+
+![update2](https://github.com/AsmaaElhadad10/DBMS/assets/151434961/0c80be36-e98b-4964-a2ca-1b7958f390a7)
 
 <h2>3- Delete from Table </h2>
 
-![delete select](https://github.com/AsmaaElhadad10/DBMS/assets/151434961/52b092ab-29ec-417d-83c5-f6f9b509e54e)
+![delete](https://github.com/AsmaaElhadad10/DBMS/assets/151434961/9ed34881-bdc4-4eff-8ca2-fdb381608554)
+
 
 
