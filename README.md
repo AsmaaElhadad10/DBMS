@@ -58,7 +58,7 @@ The system provides a menu-driven interface for users to manage databases, table
 
 ![update2](https://github.com/AsmaaElhadad10/DBMS/assets/151434961/0c80be36-e98b-4964-a2ca-1b7958f390a7)
 
-<h2>3- Delete from Table </h2>
+<h2>5- Delete from Table </h2>
 
 ![delete](https://github.com/AsmaaElhadad10/DBMS/assets/151434961/9ed34881-bdc4-4eff-8ca2-fdb381608554)
 
