@@ -1137,7 +1137,7 @@ update_raw() {
             
             # Check if the update was successful
             if grep -q "${columnToUpdate}(${column_type})=${newValue}" "$data_file" && ! grep -q "${columnToUpdate}(${column_type})=${oldValue}" "$data_file"; then
-                echo "${GREEN}Value '${oldValue}' updated to '${newValue}' in column '${columnToUpdate}' in table '${tableName}'.${RESET}"
+                echo -e "${GREEN}Value '${oldValue}' updated to '${newValue}' in column '${columnToUpdate}' in table '${tableName}'.${RESET}"
                 # Display the updated data file
                 cat "$data_file"
             else
