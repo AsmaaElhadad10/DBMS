@@ -40,7 +40,19 @@ Asmaa
 Feel free to contribute to this project or provide feedback for improvements!
 
     
+<h1> Demo </h1>
+<h2>1- Create Database & Tables</h2>
 
+![create db table](https://github.com/AsmaaElhadad10/DBMS/assets/151434961/e9933de3-4c08-4444-aead-72882a22b1fa)
 
+<h2>2- Insert in Table $ Select from Table</h2>
 
+![insert select](https://github.com/AsmaaElhadad10/DBMS/assets/151434961/c3d4c266-1fe4-4e83-92bb-fbfa43cc09e0)
 
+<h2>3- Delete from Table </h2>
+
+![delete select](https://github.com/AsmaaElhadad10/DBMS/assets/151434961/52b092ab-29ec-417d-83c5-f6f9b509e54e)
+
+<h2>4- Update from Table </h2>
+
+![update1](https://github.com/AsmaaElhadad10/DBMS/assets/151434961/fe3c2572-49c0-4481-b7e7-1dc959220754)
