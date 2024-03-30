@@ -34,7 +34,7 @@ The system provides a menu-driven interface for users to manage databases, table
 <h4> The main script containing the database management functions and the main menu.</h4>
 
 <h2> Contributors:</h2>
-<h2> Amal & Asmaa</h2>
+<h3> Amal & Asmaa</h3>
 
 <h3> Feel free to contribute to this project or provide feedback for improvements!</h3>
 
